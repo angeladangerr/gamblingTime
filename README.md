@@ -1,5 +1,5 @@
 # gamblingTime
-A simple slot machine program to help me learn JavaScript :D
+A simple slot machine program to help me learn JavaScript :D (uses Node.js!)
 
 Followed Tech with Tim's Tutorial: https://youtu.be/E3XxeE7NF30?si=dNemOkCqoslZ3RA6
 
